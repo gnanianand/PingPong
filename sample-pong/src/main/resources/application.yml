@@ -4,4 +4,4 @@ server:
 
 
 reply:
-  message: Pong local
+  message: Pong from application.yml from GIT repo
